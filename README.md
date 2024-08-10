@@ -10,7 +10,7 @@ Steps: -
 6. At the end, we used the dax function to calculate the total amount used in it.
 
 
-Virtual lool: -
+Virtual look: -
 
 
 
